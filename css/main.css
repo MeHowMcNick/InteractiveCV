@@ -1,0 +1,93 @@
+body {
+    background-image: url("../img/background3.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+div.all {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rounded-lg {
+    border: 1.5px solid white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+table {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+td.icon {
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 6px;
+}
+
+td.text {
+    text-align: left;
+    font-size: 13px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+ul {
+    padding-inline-start: 0px;
+}
+
+.active {
+    text-decoration: underline;
+}
+
+.active:hover {
+    text-decoration: underline;
+}
+
+.background-dark {
+    background-color: black;
+}
+
+.bg-mine1 {
+    background: linear-gradient(to right, #434B72 0%, #7481C6 60%, #8291DF 100%);
+}
+
+.bg-mine2 {
+    background: linear-gradient(to right, #7A7147 0%, #B2A567 60%, #DECE81 100%);
+}
+
+.card-text {
+    font-size: 13px;
+}
+
+.collapse {
+    font-size: 13px;
+}
+
+h6 {
+    text-decoration: underline;
+}
+
+ul {
+    padding-left: 16px;
+    margin-bottom: 4px;
+}
+
+hr {
+    border-style: solid;
+}
