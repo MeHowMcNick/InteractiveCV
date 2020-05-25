@@ -24,7 +24,7 @@
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
-  speak: none;
+  speak-as: none;
  
   display: inline-block;
   text-decoration: inherit;
@@ -64,3 +64,4 @@
 .icon-github-circled-1:before { content: '\f09b'; font-size: 18px;} /* '' */
 .icon-mail-alt:before { content: '\f0e0'; font-size: 18px;} /* '' */
 .icon-birthday:before { content: '\f1fd'; font-size: 18px;} /* '' */
+.icon-linkedin-squared:before { content: '\f30c'; font-size: 18px;} /* '' */
