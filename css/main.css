@@ -1,5 +1,6 @@
 body {
-    background-image: url("../img/background3.jpg");
+    /* background-image: url("../img/background3.jpg"); */
+    background-color:rgb(10, 10, 10); 
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
